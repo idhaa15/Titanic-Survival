@@ -1,5 +1,6 @@
 # Titanic-Survival
 Titanic Survival Prediction using Machine Learning
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idhaa15/Titanic-Survival/blob/main/Model.ipynb)
 
 ![Titanic](https://img.shields.io/badge/Dataset-Kaggle-blue)
 ![Language](https://img.shields.io/badge/Language-Python-green)
